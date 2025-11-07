@@ -5,7 +5,7 @@ El curso explora los fundamentos de la inteligencia artificial moderna, abarcand
 
 ---
 
-## 🧩 Proyectos del curso
+## Proyectos del curso
 
 ### **Proyecto 0 – Degrees**
 Implementa un programa que encuentra el camino más corto de conexiones entre dos actores que han trabajado juntos en películas.  
